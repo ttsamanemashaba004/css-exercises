@@ -7,3 +7,8 @@
 .buttn.second {
     background-color: #ffff00;
 }
+
+.buttn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
