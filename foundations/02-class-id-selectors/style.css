@@ -8,4 +8,9 @@
     font-size: 36px;
 }
 
-blue text and a font size of 36px
+.odd.third {
+    font-size: 24px;
+}
+
+in addition to the styles for all odd numbered elements, 
+add a font size of 24px
