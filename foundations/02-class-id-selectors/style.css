@@ -12,5 +12,9 @@
     font-size: 24px;
 }
 
-in addition to the styles for all odd numbered elements, 
-add a font size of 24px
+#fourth {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
